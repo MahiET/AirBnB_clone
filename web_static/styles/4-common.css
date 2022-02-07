@@ -1,10 +1,22 @@
-body{
+body {
+    margin: 0px;
+    padding: 0px;
     color: #484848;
     font-size: 14px;
+<<<<<<< HEAD
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
      }
 .container {
     max-width: 1000px;
     margin: 30px auto;
     padding: 60px;
+=======
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+>>>>>>> a7e6975dd0ec65e03b074c9a047cc696e7c79880
+}
+.container{
+    max-width: 1000px;
+    margin: 30px auto;
+    align-content: center;
 }
